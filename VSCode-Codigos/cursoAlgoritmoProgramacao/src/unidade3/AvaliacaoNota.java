@@ -12,7 +12,7 @@ public class AvaliacaoNota {
         if ((nota >=0) && (nota <=100))
         {
             if (nota >=90)
-                System.out.print("Conceiro Excelente");
+                System.out.print("Conceito Excelente");
             else if (nota >=70)
                 System.out.println("Conceito Bom");
             else if (nota >=50)
